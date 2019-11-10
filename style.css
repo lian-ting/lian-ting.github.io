@@ -1,0 +1,33 @@
+body {
+  font-family: 'Quicksand', sans-serif;
+  background-color: #FABA9F;
+}
+
+#header {
+  margin-top: 30 px;
+  text-align: center;
+  letter-spacing: 5 px;
+  font-size: 100 px
+}
+
+#subheader {
+  margin-top: 5 px;
+  text-align: center;
+  font-size: 25 px;
+  font-style: italic;
+}
+
+#thumbnail img{
+  margin: 0 auto;
+  width: 300 px;
+  display: block;
+}
+
+#description{
+ text-align: center;
+ margin-top: 5 px;
+}
+
+#link{
+
+}
