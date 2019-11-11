@@ -1,19 +1,19 @@
 body {
   font-family: 'Quicksand', sans-serif;
-  background-color: #FABA9F;
+  background-color: #FBC6AF;
 }
 
 #header {
   margin-top: 30 px;
   text-align: center;
-  letter-spacing: 5 px;
-  font-size: 100 px
+  letter-spacing: 3px;
+  font-size: 60px;
 }
 
 #subheader {
-  margin-top: 5 px;
+  margin-top: 5px;
   text-align: center;
-  font-size: 25 px;
+  font-size: 25px;
   font-style: italic;
 }
 
@@ -24,10 +24,31 @@ body {
 }
 
 #description{
+ margin: 0 auto;
  text-align: center;
- margin-top: 5 px;
+ font-size: 20px;
 }
 
-#link{
+#link {
+  background-color: white;
+  color: black;
+  padding: 15px 6px;
+  font-weight: bold;
+  font-size: 20px;
+  margin: 0 auto;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  width: 200px;
+}
 
+#link2 {
+  background-color: white;
+  color: black;
+  padding: 15px 6px;
+  font-weight: bold;
+  font-size: 20px;
+  margin: 0 auto;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  width: 200px;
 }
